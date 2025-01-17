@@ -1,7 +1,7 @@
 
 # Tic-Tac-Toe Console Simulator
 
-This is a simple in-console Tic-Tac-Toe game implemented in Python. It supports several modes of play, including **Player vs. Player**, **Player vs. AI**, and **AI vs. AI**. The game provides a text-based board interface and allows users to interact with the game through the command line.
+This is a simple in-console Tic-Tac-Toe game implemented in Python, created as a Python exercise. It supports several modes of play, including **Player vs. Player**, **Player vs. AI**, and **AI vs. AI**. The game provides a text-based board interface and allows users to interact with the game through the command line.
 
 ## Features
 
